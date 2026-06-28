@@ -24,7 +24,7 @@ the envelope Conduit wraps around your packet.
 
 1. Put a Programmable Block on a grid you want reported.
 2. Paste the contents of `ExampleReporter.cs` into it and **Recompile**.
-3. Done — no arguments, no config. The PB's Custom Data fills with the packet immediately (check the PB's
+3. Done. No arguments, no config. The PB's Custom Data fills with the packet immediately (check the PB's
    detail panel / Custom Data to see it).
 
 ## Make it your own
